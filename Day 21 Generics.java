@@ -16,7 +16,7 @@ class Printer <T> {
             System.out.println("" + e);
         }
     }
-//ends here
+//Code logic ends here
 }
 
 public class Generics {
